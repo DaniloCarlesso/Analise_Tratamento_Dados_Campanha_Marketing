@@ -1,0 +1,19 @@
+age: Idade da pessoa.
+salary: Salário da pessoa.
+balance: Saldo bancário.
+marital: Estado civil (casado, solteiro etc.).
+targeted: Se foi alvo de campanha.
+default: Se possui crédito padrão.
+housing: Se possui empréstimo habitacional.
+loan: Se possui empréstimo pessoal.
+contact: Tipo de contato (telefone, celular etc.).
+day: Dia do mês do contato.
+month: Mês do contato.
+duration: Duração do contato.
+campaign: Número de contatos durante a campanha.
+pdays: Quantidade de dias desde o último contato.
+previous: Número de contatos anteriores realizados antes desta campanha.
+poutcome: Resultado da campanha anterior.
+response: Resposta à campanha atual.
+job: Profissão.
+edu: Nível educacional.
